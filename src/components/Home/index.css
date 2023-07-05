@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.homeContent {
+  display: flex;
+  padding: 10px;
+}
+.clothes {
+  width: 50%;
+}
+p {
+  font-size: 8px;
+  color: #64748b;
+  margin-right: 15px;
+}

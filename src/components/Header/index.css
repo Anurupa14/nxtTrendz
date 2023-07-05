@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.banner {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  align-items: center;
+}
+.logo {
+  width: 30%;
+}
+.routesContainer {
+  list-style-type: none;
+  display: flex;
+  font-size: 10px;
+}
+li {
+  margin-right: 4px;
+}
+.logoutBtn {
+  font-size: 6px;
+  color: white;
+  background-color: #0967d2;
+  outline: none;
+  cursor: pointer;
+  border: 0;
+  border-radius: 2px;
+  padding: 4px;
+}
